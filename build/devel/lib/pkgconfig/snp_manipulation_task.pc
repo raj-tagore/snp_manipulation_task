@@ -1,0 +1,8 @@
+prefix=/home/rajtagore/catkin_ws/src/snp_manipulation_task/build/devel
+
+Name: snp_manipulation_task
+Description: Description of snp_manipulation_task
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

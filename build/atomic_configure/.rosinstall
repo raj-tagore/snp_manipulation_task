@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rajtagore/catkin_ws/src/snp_manipulation_task/build/devel/setup.sh

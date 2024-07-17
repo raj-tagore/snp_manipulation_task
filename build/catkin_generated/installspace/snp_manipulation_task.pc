@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: snp_manipulation_task
+Description: Description of snp_manipulation_task
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
